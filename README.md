@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Hi!&amp;fontAlign=80&amp;fontAlignY=40&amp;color=red)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Hi!&amp;fontAlign=80&amp;fontAlignY=40&amp;)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
