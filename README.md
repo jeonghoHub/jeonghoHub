@@ -1,5 +1,7 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Hi!&amp;fontAlign=80&amp;fontAlignY=40&amp;)
+
+
+<a href = "https://api.gitofolio.com/portfolio/2388/2394"><img src = "https://api.gitofolio.com/portfoliocard/svg/2394?color=white" style="width:353px; height:auto; "/></a>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
