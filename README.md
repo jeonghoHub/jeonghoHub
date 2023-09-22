@@ -10,18 +10,18 @@
 
 - **Languages**
 
-  [![Languages](https://skillicons.dev/icons?i=java,js,py)](https://github.com/kweonminsung)
+  [![Languages](https://skillicons.dev/icons?i=java,js,py)](https://github.com/jeonghoHub)
 
 - **Backend Development**
 
-  [![Backend Development](https://skillicons.dev/icons?i=spring,nodejs,express,mysql,redis&perline=3)](https://github.com/kweonminsung)
+  [![Backend Development](https://skillicons.dev/icons?i=spring,nodejs,express,mysql,redis&perline=3)](https://github.com/jeonghoHub)
 
 - **DevOps**
 
-  [![DevOps](https://skillicons.dev/icons?i=jenkins,docker,k8s)](https://github.com/kweonminsung)
+  [![DevOps](https://skillicons.dev/icons?i=jenkins,docker,k8s)](https://github.com/jeonghoHub)
 
 - **Tools**
 
-  [![Tools](https://skillicons.dev/icons?i=vscode,idea)](https://github.com/kweonminsung)
+  [![Tools](https://skillicons.dev/icons?i=vscode,idea)](https://github.com/jeonghoHub)
 
   <br>
