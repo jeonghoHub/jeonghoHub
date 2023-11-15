@@ -22,7 +22,7 @@
   
 - **Monitoring**
 
-- [![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana)](https://github.com/jeonghoHub)
+  [![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana)](https://github.com/jeonghoHub)
 
 - **Tools**
 
