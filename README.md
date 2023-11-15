@@ -19,6 +19,10 @@
 - **DevOps**
 
   [![DevOps](https://skillicons.dev/icons?i=jenkins,docker,k8s)](https://github.com/jeonghoHub)
+  
+- **Monitoring**
+
+- [![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana)](https://github.com/jeonghoHub)
 
 - **Tools**
 
